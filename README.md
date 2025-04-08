@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hello! I'm Ajay Joshi
 
-<!--
-**ajay-learning/ajay-learning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm an aspiring **Flutter Developer** passionate about building beautiful, functional, and responsive mobile apps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 What I'm Learning & Working On:
+
+- 💙 **Flutter & Dart**
+- 🔥 **Firebase** (Authentication, Firestore, Storage)
+- 🌐 **REST API Integration**
+- 📱 UI/UX with Flutter Widgets
+- 🧠 **State Management** – Provider, Riverpod, GetX (learning more!)
+- 🔧 Local storage (Hive, Shared Preferences)
+
+---
+
+## 🚀 Goals
+
+- Build and publish real-world apps 🚀  
+- Create open-source projects 💻  
+- Land my first role as a **Flutter Developer** 💼  
+- Keep learning every single day 🌱  
+
+---
+
+## 📂 My Self Projects
+
+- 📱 Flutter Registration App with Camera & Local Storage  
+- 🎵 Music/Events App using REST APIs  
+- 🔐 Firebase Auth + Firestore CRUD Demo  
+*(More coming soon...)*
+
+---
+
+
+
+_"Learning never stops. Build, break, learn, repeat."_ 🔁  
